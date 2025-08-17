@@ -1,6 +1,8 @@
 ﻿{
-    "mandatory":  false,
-    "changelog":  "test2",
-    "apk_url":  "https://waytoo-average.github.io/app_updates/focus-zone-v2.0.2.apk",
-    "latest_version":  "2.0.2"
+    "latest_version":  "2.0.0",
+    "apk_url":  "https://waytoo-average.github.io/app_updates/focus-zone-v2.0.0.apk",
+    "update_type":  "full",
+    "size_mb":  57.3,
+    "mandatory":  true,
+    "changelog":  "New feedback system \\\\n New notification manager center \\\\n Massive improvements to quran section \\\\n Various bug fixes \\\\n More animations to make the app more lively \\\\n Added old academic content \\\\n Got the app verified"
 }
